@@ -1,1 +1,1 @@
-Folder for shell init and variables
+readme for folder
